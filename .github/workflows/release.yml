@@ -22,7 +22,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Install pnpm
-        uses: pnpm/action-setup@v4
+        uses: pnpm/action-setup@v4 #在package.json中声明了包管理器版本
 
       - name: Install node environment
         uses: actions/setup-node@v4
