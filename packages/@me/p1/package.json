@@ -1,6 +1,6 @@
 {
-  "name": "@me/p1",
-  "version": "2.0.0",
+  "name": "@skidd/p1",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
